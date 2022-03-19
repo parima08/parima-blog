@@ -8,7 +8,7 @@
 
 set -eu
 
-PAGES_BRANCH="gh-pages"
+PAGES_BRANCH="main"
 
 SITE_DIR="_site"
 
@@ -20,7 +20,7 @@ _no_pages_branch=false
 
 _backup_dir="$(mktemp -d)"
 
-_baseurl=""
+_baseurl="blog.parimashah.com"
 
 help() {
   echo "Build, test and then deploy the site content to 'origin/<pages_branch>'"
