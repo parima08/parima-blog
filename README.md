@@ -48,6 +48,7 @@ This work is published under [MIT][mit] License.
 ## Run locally:
 
 ```
+in _config.yml change the base_url to "" instead of blog.parimashah.com
 $ bundle exec jekyll s
 ```
 

@@ -1,7 +1,7 @@
 ---
 title: Welcome to Parima's Blog
 date: 2022-03-18 09:00:00 +/-TTTT
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
+categories: [GENERAL]
 tags: [welcome] # TAG names should always be lowercase
 ---
 
